@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fellipeamedeiros/hacktober-2022-eduardo/issues"
   },
-  "homepage": "https://github.com/fellipeamedeiros/hacktober-2022-eduardo#readme"
+  "homepage": "https://github.com/fellipeamedeiros/hacktober-2022-eduardo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
